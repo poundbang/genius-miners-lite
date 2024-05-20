@@ -1,0 +1,30 @@
+{
+  "version": "0.1.1",
+  "description": "A quick view of your Genius miners.",
+  "proposedName": "Genius Miners",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+  },
+  "source": {
+    "shasum": "c/LAFALTedPy+TkKniUuak52WRKVKRop8gX3+FguWF0=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "genius-miners",
+        "registry": "https://registry.npmjs.org/",
+        "iconPath": "images/genius-logo-32x32.svg"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_dialog": {},
+    "endowment:rpc": {
+      "dapps": true,
+      "snaps": false
+    },
+    "endowment:ethereum-provider": {},
+    "endowment:page-home": {}
+  },
+  "manifestVersion": "0.1"
+}
