@@ -1,17 +1,17 @@
 {
   "version": "0.1.1",
-  "description": "A quick view of your Genius miners.",
-  "proposedName": "Genius Miners",
+  "description": "Genius Miners Lite allows Genius Financial Contract users to view their miners in Metamask wallet. It provides snapshot information of miner earnings and at-a-glace idea when miners end and what state the are in.",
+  "proposedName": "Genius Miners Lite",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/poundbang/genius-miners-lite.git"
   },
   "source": {
-    "shasum": "c/LAFALTedPy+TkKniUuak52WRKVKRop8gX3+FguWF0=",
+    "shasum": "1+6FKTqBj7Yuv9qopZGQrsJcHgmfwK9/mmNVOfWND8E=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
-        "packageName": "genius-miners",
+        "packageName": "genius-miners-lite",
         "registry": "https://registry.npmjs.org/",
         "iconPath": "images/genius-logo-32x32.svg"
       }
