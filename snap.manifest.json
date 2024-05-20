@@ -7,13 +7,13 @@
     "url": "https://github.com/poundbang/genius-miners-lite.git"
   },
   "source": {
-    "shasum": "JqibJSCBMHVwUIuUXGl4xNTcWoqJ5vlg8GZ/KwkhWoo=",
+    "shasum": "Ez3mNk36U2c395TMla0thLQEb9Wz3wAE/FUF31uLyyk=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "packageName": "genius-miners-lite",
         "registry": "https://registry.npmjs.org/",
-        "iconPath": "images/genius-logo-32x32.svg"
+        "iconPath": "images/logo.svg"
       }
     }
   },
