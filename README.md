@@ -2,6 +2,13 @@
 
 This snap allows Genius Financial Contract users to view their miners in Metamask wallet. It provides snapshotted information of miner earnings and at-a-glance idea when miners end and what state the are in.
 
+# Example
+
+
+| First Page                                                          | Second  Page                                                        | Miner Guide                                                         |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| <img src="docs/Snap1.png" width="200" height="auto" alt="Screen 1"> | <img src="docs/Snap2.png" width="200" height="auto" alt="Screen 2"> | <img src="docs/Snap3.png" width="200" height="auto" alt="Screen 2"> |
+
 # FAQ
 #### Q: Who is this snap for?
 #### A: Users who have Genius miners ands would like to get statistics of their miners.

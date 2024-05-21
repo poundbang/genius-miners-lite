@@ -32,10 +32,14 @@ export const onHomePage: OnHomePageHandler = async () => {
     console.debug(accounts);
 
     if (accounts !== undefined && accounts !== null) {
-      homePageInterfaceId = await homePageUI(accounts[0]);
+      homePageInterfaceId = await homePageUI(
+        '0x95c4081fe47ad81052982c020d4fcc3e00d6e657'
+     //   accounts[0]
+      );
     }
   } catch (error) {
     console.log(error);
+    // @ts-ignore
     await showNotifyUI('🔴', 'Account Request', error);
   }
   return { id: homePageInterfaceId };
