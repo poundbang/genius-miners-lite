@@ -5,9 +5,9 @@ This snap allows Genius Financial Contract users to view their miners in Metamas
 # Example
 
 
-| First Page                                                          | Second  Page                                                        | Miner Guide                                                         |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| <img src="docs/Snap1.png" width="200" height="auto" alt="Screen 1"> | <img src="docs/Snap2.png" width="200" height="auto" alt="Screen 2"> | <img src="docs/Snap3.png" width="200" height="auto" alt="Screen 2"> |
+| First Page                                                                         | Second  Page                                                                       | Miner Guide                                                         |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| <img src="docs/GeniusLite1_06062024.png" width="200" height="auto" alt="Screen 1"> | <img src="docs/GeniusLite2_06062024.png" width="200" height="auto" alt="Screen 2"> | <img src="docs/GeniusLite3_06062024.png" width="200" height="auto" alt="Screen 2"> |
 
 # FAQ
 #### Q: Who is this snap for?
