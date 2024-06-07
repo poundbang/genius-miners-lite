@@ -22,7 +22,6 @@ import {
 // Vars
 let accounts: any;
 let currentGeniusDay = 0;
-const testAcct = '0x95c4081fe47ad81052982c020d4fcc3e00d6e657'
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 export const onHomePage: OnHomePageHandler = async () => {
@@ -57,8 +56,7 @@ export const onUserInput: OnUserInputHandler = async ({ id, event }) => {
       currentGeniusDay = await handleGetGeniusDay();
 
       // Get miner store information
-      const miners = await handleGetMiners(testAcct);
-      // const miners = await handleGetMiners(accounts[0]);
+      const miners = await handleGetMiners(accounts[0]);
 
       // Do we have any miners?
       // If so, get miner earnings and build miner detail UI
